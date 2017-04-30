@@ -32,40 +32,6 @@
 
 项目基于idea和gradle环境，仓储目前是mysql。源码中有mysql脚本。系统全部配置在application-default.yml，执行完数据库脚本,修改相应数据源配置，直接运行Application.java即可，相信只要搞过java熟悉过springboot的都能运行起来，没什么技术含量。正常启动后浏览器打开
 
-http://localhost:10000
+123.206.61.241:8080
 账号root,密码root
 
-项目地址
-http://git.oschina.net/mvc-easy/admin-manage
-
-注意，主分支master目前正在与我的博客系统同步开发中，请使用mini-admin-manage分支
-
-线上演示
-http://bumishi.tech/
-demo/demo
-效果预览
-
-![](http://static.bumishi.cn/148355085170397411483489760.png)
-
-![](http://static.bumishi.cn/148355045503045612.png)
-
-![](http://static.bumishi.cn/148355056063349363.png)
-
-![](http://static.bumishi.cn/148355059351757554.png)
-
-![](http://static.bumishi.cn/148355062169961005.png)
-
-![](http://static.bumishi.cn/148355063767313646.png)
-
-![](http://static.bumishi.cn/1483550655186842admin1.png)
-
-![](http://static.bumishi.cn/1483550671566486admin2.png)
-
-
-欢迎提出建议与意见！
-
-交流群:245130488
-
-不迷失微信公众号:javajidi_com
-
-#@不迷失，专注Java技术研究#
